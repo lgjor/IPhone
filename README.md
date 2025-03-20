@@ -69,7 +69,7 @@ Submeta seu repositório GitHub conforme as orientações da plataforma DIO.
     <img src=./img/plantuml-diagram.png>
     <figcaption>Elaborado com auxílio da ferramenta https://plantuml.com/</figcaption>
 </figure>
-</br>
+</br></br>
 
 **Interfaces:**
 
