@@ -66,7 +66,7 @@ Submeta seu repositório GitHub conforme as orientações da plataforma DIO.
 ### UML elaborado e implementação
 
 <figure>
-    <img src=./img/plantuml-diagram.png>
+    <img src=./img/plantuml-diagram.png style="maring: 0; padding:0;">
     <figcaption>Elaborado com auxílio da ferramenta https://plantuml.com/</figcaption>
 </figure>
 
