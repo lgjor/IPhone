@@ -31,7 +31,7 @@ Objetivo
 
 Exemplo de Diagrama UML (Mermaid)
 
-classDiagram
+``` classDiagram
     class ReprodutorMusical {
         +exemploMetodo1()
         +exemploMetodo2(String exemplo)
@@ -53,6 +53,7 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+```
 
 ### Instruções
 
