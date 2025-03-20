@@ -65,12 +65,17 @@ Submeta seu repositório GitHub conforme as orientações da plataforma DIO.
 
 ### UML elaborado e implementação
 
-Interfaces:
-    - IPod
-    - Phone
-    - Browser
-  
-Classes:
-    - IPhone que implementa as interfaces IPod, Phone e Browser.
-    - APP - Classe principal para executar o programa.
+Claro, aqui está a lista em Markdown:
+
+**Interfaces:**
+
+- iPod
+- Phone
+- Browser
+
+**Classes:**
+
+- IPhone (implementa as interfaces iPod, Phone e Browser)
+- APP (classe principal para executar o programa)
+
   
